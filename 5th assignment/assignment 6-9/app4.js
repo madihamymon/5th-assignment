@@ -1,0 +1,25 @@
+var val1=prompt('enter value')
+document.write(val1 + "x" + "1" + "=" + val1*1 + "<br>")
+document.write(val1 + "x" + "2" + "=" + val1*2 + "<br>")
+document.write(val1 + "x" + "3" + "=" + val1*3 + "<br>")
+document.write(val1 + "x" + "4" + "=" + val1*4 + "<br>")
+document.write(val1 + "x" + "5" + "=" + val1*5 + "<br>")
+document.write(val1 + "x" + "6" + "=" + val1*6 + "<br>")
+document.write(val1 + "x" + "7" + "=" + val1*7 + "<br>")
+document.write(val1 + "x" + "8" + "=" + val1*8 + "<br>")
+document.write(val1 + "x" + "9" + "=" + val1*9 + "<br>")
+document.write(val1 + "x" + "10" + "=" + val1*10 + "<br>")
+
+if( val1==""){
+document.write(5 + "x" + "1" + "=" + 5*1 + "<br>")
+document.write(5+ "x" + "2" + "=" + 5*2 + "<br>")
+document.write(5 + "x" + "3" + "=" + 5*3 + "<br>")
+document.write(5 + "x" + "4" + "=" + 5*4 + "<br>")
+document.write(5 + "x" + "5" + "=" + 5*5 + "<br>")
+document.write(5 + "x" + "6" + "=" + 5*6 + "<br>")
+document.write(5 + "x" + "7" + "=" + 5*7 + "<br>")
+document.write(5 + "x" + "8" + "=" + 5*8 + "<br>")
+document.write(5 + "x" + "9" + "=" + 5*9 + "<br>")
+document.write(5 + "x" + "10" + "=" + 5*10 + "<br>")
+
+}
